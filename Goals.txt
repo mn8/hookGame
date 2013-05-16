@@ -1,2 +1,4 @@
 GOALS:
 
+Save a group and load it
+add hints

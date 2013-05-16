@@ -36,6 +36,7 @@ function scene:createScene( event )
 	
 	-----------------------------------------------------------------------------
 
+
 	--Set the background
 	local background = display.newImage("background.jpg")
 	background:setReferencePoint( display.TopLeftReferencePoint )
@@ -103,6 +104,7 @@ function scene:destroyScene( event )
 	-----------------------------------------------------------------------------
 
 end
+
 
 
 ---------------------------------------------------------------------------------

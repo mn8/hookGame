@@ -1,7 +1,7 @@
 application = {
 	content = {
-		width = 320,
-		height = 480, 
+		width = 320, --320
+		height = 480, --480 
 		scale = "zoomStretch",
 		fps = 60,
 		
